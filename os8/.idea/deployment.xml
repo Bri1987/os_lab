@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Remote Host (c565803d-6c7c-4af3-a295-b1fcd0dad36f)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="Remote Host (djf) (4d2cd523-18d4-4b5b-9d5a-8df587ece915)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.ZMlyFvV44U" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+      <paths name="虚拟机 (81faf6fa-b33a-4652-8177-69cc310b4387)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/tmp.4huYKMlYJF" local="$PROJECT_DIR$" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath local="true" path="$PROJECT_DIR$/cmake-build-debug" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>

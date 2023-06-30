@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/os7_n.dir/main.c.o  -o os7_n 

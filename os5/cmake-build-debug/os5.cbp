@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="os5"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/tmp/tmp.RK7gVRJpAj/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.RK7gVRJpAj/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.RK7gVRJpAj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.RK7gVRJpAj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.RK7gVRJpAj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/tmp/tmp.RK7gVRJpAj/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.RK7gVRJpAj/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.RK7gVRJpAj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.RK7gVRJpAj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.RK7gVRJpAj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/tmp/tmp.RK7gVRJpAj/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.RK7gVRJpAj/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.RK7gVRJpAj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.RK7gVRJpAj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.RK7gVRJpAj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="os5">
+				<Option output="/tmp/tmp.RK7gVRJpAj/cmake-build-debug/os5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.RK7gVRJpAj/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/rh/devtoolset-9/root/usr/lib/gcc/x86_64-redhat-linux/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/opt/rh/devtoolset-9/root/usr/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.RK7gVRJpAj/cmake-build-debug/Makefile&quot;  VERBOSE=1 os5"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.RK7gVRJpAj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.RK7gVRJpAj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.RK7gVRJpAj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="os5/fast">
+				<Option output="/tmp/tmp.RK7gVRJpAj/cmake-build-debug/os5" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/tmp/tmp.RK7gVRJpAj/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/rh/devtoolset-9/root/usr/lib/gcc/x86_64-redhat-linux/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/opt/rh/devtoolset-9/root/usr/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.RK7gVRJpAj/cmake-build-debug/Makefile&quot;  VERBOSE=1 os5/fast"/>
+					<CompileFile command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.RK7gVRJpAj/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.RK7gVRJpAj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/gmake -j2 -f &quot;/tmp/tmp.RK7gVRJpAj/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/tmp/tmp.RK7gVRJpAj/main.c">
+			<Option target="os5"/>
+		</Unit>
+		<Unit filename="/tmp/tmp.RK7gVRJpAj/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.WdXPtdXS9s/main.c
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+dirent.h
+-
+sys/stat.h
+-
+pwd.h
+-
+grp.h
+-
+time.h
+-
+string.h
+-
+fcntl.h
+-
+

@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/tmp/tmp.sTf7k2Hd3l/buffer_pool.h
+sys/types.h
+-
+sys/ipc.h
+-
+sys/shm.h
+-
+sys/sem.h
+-
+stdbool.h
+-
+stdio.h
+-
+stdlib.h
+-
+unistd.h
+-
+sys/wait.h
+-
+string.h
+-
+
+/tmp/tmp.sTf7k2Hd3l/shared_memory.c
+buffer_pool.h
+/tmp/tmp.sTf7k2Hd3l/buffer_pool.h
+

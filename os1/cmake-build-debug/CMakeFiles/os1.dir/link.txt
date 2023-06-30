@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/os1.dir/k1.c.o  -o os1 

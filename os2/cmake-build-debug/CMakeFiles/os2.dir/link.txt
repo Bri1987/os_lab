@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/os2.dir/main.c.o CMakeFiles/os2.dir/semaphores.c.o CMakeFiles/os2.dir/shared_memory.c.o  -o os2 

@@ -1,0 +1,1 @@
+/usr/bin/cc -g -rdynamic CMakeFiles/os8_1.dir/main3.c.o -o os8_1 

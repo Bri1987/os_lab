@@ -1,0 +1,3 @@
+/tmp/tmp.RK7gVRJpAj/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/tmp/tmp.RK7gVRJpAj/cmake-build-debug/CMakeFiles/edit_cache.dir
+/tmp/tmp.RK7gVRJpAj/cmake-build-debug/CMakeFiles/os5.dir

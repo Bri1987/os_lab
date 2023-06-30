@@ -1,0 +1,17 @@
+/usr/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DINCLUDE_DIRECTORIES=/usr/src/kernels/3.10.0-1160.71.1.el7.x86_64/include -G "CodeBlocks - Unix Makefiles" -S /tmp/tmp.693iXl2Hjp -B /tmp/tmp.693iXl2Hjp/cmake-build-debug
+-- The C compiler identification is GNU 9.3.1
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+CMake Warning:
+  Manually-specified variables were not used by the project:
+
+    INCLUDE_DIRECTORIES
+
+
+-- Build files have been written to: /tmp/tmp.693iXl2Hjp/cmake-build-debug
